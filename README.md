@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me ...
+- 📫 How to reach me programming
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: programming
 
